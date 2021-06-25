@@ -1,0 +1,3 @@
+﻿D:\software\VS2019\IDE\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(467,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(Greedy_Approach_Shortest_Path_Dijkstra.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  Greedy_Approach_Min_Cost_Spanning_Tree_Dijkstra.cpp
+  Greedy_Approach_Shortest_Path_Dijkstra.vcxproj -> D:\Learning_Data\算法分析与设计（双语）\Greedy_Approach_Min_Cost_Spanning_Tree_Dijkstra\x64\Debug\Greedy_Approach_Min_Cost_Spanning_Tree_Dijkstra.exe
